@@ -39,7 +39,7 @@ body {
         }
 
 .nav-item1 {
-    left: 100%;
+    left: 10%;
     position: relative;
 }
 
@@ -52,8 +52,10 @@ body {
 /* Estiliza o cabeçalho */
 h1 {
     text-align: center;
-    color: #333;
+    color: #4e6137;
     margin-top: 20px;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 /* Estiliza o formulário */
@@ -92,12 +94,11 @@ form > input {
 }
 
 .container-footer {
-    background-color: #4b6b22;
+    background-color: #669030;
     color: white;
     text-align: center;
 }
 .ecoli {
     width: 125px;
-    positon: relative;
     left: 500px;
 }
